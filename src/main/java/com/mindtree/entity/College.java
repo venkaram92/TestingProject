@@ -3,7 +3,7 @@ package com.mindtree.entity;
 public class College {
 	private String collegeName;
 	private int total_count;
-	
+	//testng rbranch
 	public College()
 	{}
 	

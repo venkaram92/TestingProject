@@ -20,6 +20,7 @@ public class CollegeSurvey {
 				System.out.println("4. Display based on college and subject");
 				System.out.println("5. Exit");
 				System.out.println("Enter your choice :");
+				System.out.println("Testing");
 			    choice = sc.nextInt();
 				switch(choice)
 				{
